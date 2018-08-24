@@ -40,6 +40,7 @@
 @media only screen and (max-width: 750) {
 .body {
   font-size: 85%;
+   border-right: 0;
 }
 #navbar nav a{
 font-size: .9em;
@@ -64,6 +65,6 @@ font-size: .9em;
   -webkit-column-count: 1;
   column-count: 1;
   
-  .border-right: 0;
+ 
 }
 }
